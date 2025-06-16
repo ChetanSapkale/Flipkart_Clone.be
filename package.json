@@ -7,16 +7,11 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Diwakarsharma2216/json-mock-server.git"
+    "type": "git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Diwakarsharma2216/json-mock-server/issues"
-  },
-  "homepage": "https://github.com/Diwakarsharma2216/json-mock-server#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "json-serve": "^0.1.0",
